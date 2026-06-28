@@ -4,7 +4,7 @@
   "display": "standalone",
   "name": "Logos - La Palabra Viva",
   "orientation": "portrait",
-  "scope": "/LOGOS/",
+"scope": "https://aleja-estrella.github.io/LOGOS/",
   "short_name": "Logos",
   "start_url": "https://aleja-estrella.github.io/LOGOS/",
   "theme_color": "#d4a853",
