@@ -12,6 +12,9 @@
   "description": "Lee la Biblia, toma notas y estudia la Palabra de Dios",
   "lang": "en",
   "categories": ["education", "lifestyle", "books"],
+  "display_override": ["standalone", "minimal-ui"],
+  "prefer_related_applications": false,
+  "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
   "icons": [
     { "src": "icon-48x48.png", "sizes": "48x48", "type": "image/png", "purpose": "any" },
     { "src": "icon-72x72.png", "sizes": "72x72", "type": "image/png", "purpose": "any" },
@@ -26,10 +29,10 @@
     { "src": "icon-maskable-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ],
   "screenshots": [
-    { "src": "Captura Biblia 1.jpeg", "sizes": "1366x768", "type": "image/jpeg" },
-    { "src": "Captura Biblia 2.jpeg", "sizes": "1366x768", "type": "image/jpeg" },
-    { "src": "Captura Biblia 3.jpeg", "sizes": "1366x768", "type": "image/jpeg" },
-    { "src": "Captura Biblia 4.jpeg", "sizes": "1366x768", "type": "image/jpeg" },
-    { "src": "Captura Biblia 5.jpeg", "sizes": "1366x768", "type": "image/jpeg" }
+    { "src": "screenshot1.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide" },
+    { "src": "screenshot2.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide" },
+    { "src": "screenshot3.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide" },
+    { "src": "screenshot4.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide" },
+    { "src": "screenshot5.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide" }
   ]
 }
