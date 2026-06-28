@@ -1,0 +1,14 @@
+{
+  "background_color": "#0a0908",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Logos - La Palabra Viva",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Logos",
+  "start_url": "https://splendid-dolphin-8db9f5.netlify.app/",
+  "theme_color": "#d4a853",
+  "id": "logos-biblia",
+  "description": "Lee la Biblia, toma notas y estudia la Palabra de Dios",
+  "lang": "en"
+}
