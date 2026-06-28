@@ -12,7 +12,7 @@
   "description": "Lee la Biblia, toma notas y estudia la Palabra de Dios",
   "lang": "en",
   "categories": ["education", "lifestyle", "books"],
-  "display_override": ["standalone", "minimal-ui"],
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
   "prefer_related_applications": false,
   "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
   "shortcuts": [
