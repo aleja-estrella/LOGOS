@@ -4,11 +4,19 @@
   "display": "standalone",
   "name": "Logos - La Palabra Viva",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/LOGOS/",
   "short_name": "Logos",
   "start_url": "https://aleja-estrella.github.io/LOGOS/",
   "theme_color": "#d4a853",
   "id": "logos-biblia",
   "description": "Lee la Biblia, toma notas y estudia la Palabra de Dios",
-  "lang": "en"
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
